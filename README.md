@@ -1,2 +1,2 @@
--[] Done part 1
--[] Exercise part 1
+- [ ] Done part 1
+- [ ] Exercise part 1
